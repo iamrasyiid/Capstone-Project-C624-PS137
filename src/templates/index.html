@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <!--=============== FAVICON ===============-->
+      <link rel="shortcut icon" href="../public/images/favicon.png" type="image/x-icon">
+
+      <!--=============== REMIXICONS ===============-->
+      <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet"/>
+
+      <!--=============== CSS ===============-->
+      <link rel="stylesheet" href="../styles/styles.css">
+      <link rel="stylesheet" href="../styles/responsive.css">
+
+      <title>Bumi Budaya Lestari</title>
+   </head>
+   <body>
+      <!--==================== HEADER ====================-->
+      <header class="header" id="header">
+         <nav class="nav container">
+            <a href="index.html" class="nav__logo">BUMI BUDAYA LESTARI</a>
+
+            <div class="nav__menu" id="nav-menu">
+               <ul class="nav__list">
+                  <li class="nav__item">
+                     <a href="index.html" class="nav__link">Beranda</a>
+                  </li>
+
+                  <li class="nav__item">
+                     <a href="explore.html" class="nav__link">Explore</a>
+                  </li>
+
+                  <li class="nav__item">
+                     <a href="contact.html" class="button">Hubungi Kami</a>
+                  </li>
+               </ul>
+
+               <!-- Close button -->
+               <div class="nav__close" id="nav-close">
+                  <i class="ri-close-line"></i>
+               </div>
+            </div>
+
+            <div class="nav__actions">
+               <!-- Theme button -->
+               <i class="ri-moon-line change-theme" id="theme-button"></i>
+
+               <!-- Toggle button -->
+               <div class="nav__toggle" id="nav-toggle">
+                  <i class="ri-apps-2-line"></i>
+               </div>
+            </div>
+         </nav>
+      </header>
+
+      <!--==================== MAIN ====================-->
+      <main class="main">
+         <!--==================== HOME ====================-->
+         <section class="home section">
+            <div class="home__rectangle"></div>
+
+            <div class="home__container container grid">
+               <div class="home__perfil perfil">
+                  <div class="perfil__content">
+                     <img src="../public/images/profile.png" alt="image" class="perfil__img">
+                  </div>
+               </div>
+
+               <div class="home__content grid">
+                  <div class="home__data grid">
+                     <h1 class="home__name">B.B.L</h1>
+
+                     <h2 class="home__profession">Bumi Budaya Lestari</h2>
+
+                     <p class="about__description">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. <b>Halaman Web</b> Rerum doloremque quia velit doloribus? Inventore, quo dolorum! Fugiat facere dolores quas illo ex tempora labore. Rem ducimus esse culpa qui praesentium! 
+                     </p>
+
+                     <div class="home__social">
+                        <a href="https://github.com/iamrasyiid" target="_blank" class="home__social-link">
+                           <i class="ri-github-fill"></i>
+                        </a>
+
+                        <a href="https://www.linkedin.com/in/abd-rasyid-30a64a221/" target="_blank" class="home__social-link">
+                           <i class="ri-linkedin-box-fill"></i>
+                        </a>
+
+                        <a href="https://dribbble.com/iamrasyiid" target="_blank" class="home__social-link">
+                           <i class="ri-dribbble-line"></i>
+                        </a>
+                     </div>
+                  </div>
+
+                  <a href="explore.html" class="home__button button">Explore Wisata</a>
+               </div>
+            </div>
+         </section>
+
+         <!--==================== POPULER ====================-->
+         <section class="populer section">
+            <h2 class="section__title">
+               Wisata yang <br>
+               Sedang Trending
+            </h2>
+
+            <div class="populer__container container grid">
+               <article class="populer__card">
+                  <img src="../public/images/rajaampat.jpg" alt="" class="explore__img">
+                  <div class="populer__modal">
+                     <div>
+                         <span class="populer__subtitle">Kab. Raja Ampat</span>
+                         <h3 class="populer__title">Raja Ampat</h3>
+                         <a href="detail.html" class="populer__button button button__small">
+                             <i class="ri-link"></i>
+                         </a>
+                     </div>
+                 </div>
+               </article>
+
+               <article class="populer__card">
+                  <img src="../public/images/rajaampat.jpg" alt="" class="explore__img">
+                  <div class="populer__modal">
+                     <div>
+                         <span class="populer__subtitle">Kab. Raja Ampat</span>
+                         <h3 class="populer__title">Raja Ampat</h3>
+                         <a href="detail.html" class="populer__button button button__small">
+                             <i class="ri-link"></i>
+                         </a>
+                     </div>
+                 </div>
+               </article>
+
+               <article class="populer__card">
+                  <img src="../public/images/rajaampat.jpg" alt="" class="explore__img">
+                  <div class="populer__modal">
+                     <div>
+                         <span class="populer__subtitle">Kab. Raja Ampat</span>
+                         <h3 class="populer__title">Raja Ampat</h3>
+                         <a href="detail.html" class="populer__button button button__small">
+                             <i class="ri-link"></i>
+                         </a>
+                     </div>
+                 </div>
+               </article>
+            </div>
+         </section>
+         
+         <!--==================== EXPLORE ====================-->
+         <section class="explore section">
+            <h2 class="section__title">
+               Highlights <br>
+               Wisata
+            </h2>
+
+            <div class="explore__container container grid">
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Mandalika</h2>
+                  <span class="explore__subtitle">Kab. Lombok Tengah</span>
+               </article>
+
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Pantai Kuta</h2>
+                  <span class="explore__subtitle">Kabupaten Badung</span>
+               </article>
+
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Pantai Senggigi</h2>
+                  <span class="explore__subtitle">Kabupaten Lombok Barat</span>
+               </article>
+
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Danau Toba</h2>
+                  <span class="explore__subtitle">Kabupaten Samosir</span>
+               </article>
+
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Raja Ampat </h2>
+                  <span class="explore__subtitle">Kabupaten Raja Ampat</span>
+               </article>
+
+               <article class="explore__card">
+                  <a href="detail.html" class="explore__link">
+                     <img src="../public/images/mandalika.jpg" alt="" class="explore__img">
+                     <i class="ri-arrow-right-circle-line explore__icon"></i>
+                  </a>
+
+                  <h2 class="explore__title">Tana Toraja</h2>
+                  <span class="explore__subtitle">Toraja Utara</span>
+               </article>
+            </div>
+         </section>
+
+         <!--==================== CONTACT ====================-->
+         <section class="contact section">
+            <div class="contact__container container grid">
+               <h2 class="section__title">
+                  Mari Jelajahi <br>
+                  Wisata Favorit Anda.
+               </h2>
+   
+               <a href="explore.html" class="home__button button">Explore Wisata</a>
+            </section>
+            </div>
+      </main>
+
+      <!--==================== FOOTER ====================-->
+      <footer class="footer">
+         <div class="footer__container container grid">
+            <div class="footer__content grid">
+               <a href="index.html" class="footer__logo">BUMI <br> BUDAYA <br> LESTARI</a>
+
+               <ul class="footer__links">
+                  <li>
+                     <a href="explore.html" class="footer__link">Explore</a>
+                  </li>
+
+                  <li>
+                     <a href="contact.html" class="footer__link">Hubungi Kami</a>
+                  </li>
+               </ul>
+
+               <div class="footer__social">
+                  <a href="https://api.whatsapp.com/send?phone=+6281999112992&text=Hii.., Abd. Rasyid!" target="_blank" class="footer__social-link">
+                     <i class="ri-whatsapp-fill"></i>
+                  </a>
+
+                  <a href=https://www.instagram.com/abd.rsy/" target="_blank" class="footer__social-link">
+                     <i class="ri-instagram-fill"></i>
+                  </a>
+
+                  <a href="https://twitter.com/iamrasyiid" target="_blank" class="footer__social-link">
+                     <i class="ri-twitter-x-line"></i>
+                  </a>
+
+                  <a href="https://www.linkedin.com/in/abd-rasyid-30a64a221/" target="_blank" class="footer__social-link">
+                     <i class="ri-linkedin-box-fill"></i>
+                  </a>
+               </div>
+            </div>
+
+            <span class="footer__copy">
+               Copyright &#169; 2024 - BumiBudayaLestari
+            </span>
+         </div>
+      </footer>
+
+      <!--========== SCROLL UP ==========-->
+      <a href="#" class="scrollup" id="scroll-up">
+         <i class="ri-arrow-up-line"></i>
+      </a>
+
+      <!--=============== MAIN JS ===============-->
+      <script src="../scripts/main.js"></script>
+
+      <!--=============== SWIPER JS ===============-->
+      <script src="../scripts/swiper-bundle.min.js"></script>
+
+      <!--=============== INDEX JS ===============-->
+      <script src="../scripts/index.js"></script>
+   </body>
+</html>
