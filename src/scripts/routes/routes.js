@@ -8,7 +8,7 @@ const routes = {
   '/beranda': Beranda,
   '/explore': Explore,
   '/contact': Contact,
-  '/detail': Detail,
+  '/detail/:id': Detail,
 };
  
 export default routes;
