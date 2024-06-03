@@ -80,6 +80,76 @@ const destinations = [
     "video": "nkHsz0_VpOs?si=Te1HR1QbXAh3inZN",
     "desc_video": "Pulau Belitung juga terkenal akan kekayaan bawah lautnya, menjadikannya tujuan yang ideal untuk aktivitas seperti snorkeling dan menyelam. Selain itu, makanan khas Belitung seperti mi belitung dan nasi dengdeng juga menjadi daya tarik tersendiri bagi para wisatawan. Pantai-pantai di Pulau Belitung adalah yang terbaik di Indonesia. Pasir putih bersih yang halus berpadu dengan air laut berwarna biru jernih dan batuan granit yang ikonik menciptakan pemandangan yang luar biasa. Setiap pantai memiliki daya tariknya sendiri, mulai dari Pantai Tanjung Tinggi dengan batu granit raksasanya hingga Pantai Tanjung Kelayang yang memukau dengan keindahan alamnya.",
     "map": "!1m18!1m12!1m3!1d510043.31280087197!2d107.58437130827681!3d-2.898695988671966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e172904cb3c7b25%3A0x9b308566eb9637c6!2sPulau%20Belitung!5e0!3m2!1sid!2sid!4v1717238888385!5m2!1sid!2sid"
+  },
+  {
+    "id": "11",
+    "title": "Labuan Bajo: Gerbang Menuju Surga Tersembunyi di Timur Indonesia",
+    "region": "IT",
+    "provinsi": "Provinsi Nusa Tenggara Timur",
+    "hero_img": "https://v1.indonesia.travel/content/dam/indtravelrevamp/id-id/destinasi/labuan-bajo/header.jpg",
+    "desc_title": "Labuan Bajo, bagaikan permata tersembunyi di ujung timur Indonesia, memancarkan pesona alam yang luar biasa dan berbagai aktivitas menarik. Terletak di Manggarai Barat, Nusa Tenggara Timur, Labuan Bajo merupakan gerbang utama menuju Taman Nasional Komodo, rumah bagi komodo, hewan purba yang mendunia.",
+    "img_content": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/f5/c6/labuan-bajo.jpg?w=1400&h=500&s=1",
+    "img_title": "Eksotisme Labuan Bajo",
+    "desc_img": "Labuan Bajo, bagaikan permata tersembunyi di ujung timur Indonesia, memancarkan pesona alam yang luar biasa dan kekayaan budaya yang memikat. Keindahannya bagaikan lukisan alam yang terlukis dengan sapuan tangan maestro, memadukan birunya laut, dan hijaunya perbukitan.",
+    "video": "T9IXjEZ0V3I",
+    "desc_video": "Labuan bajo adalah salah satu ibu kota kabupaten manggarai barat yang ada di provinsi Nusa Tenggara Timur. Labuan bajo memiliki potensial wisata alam yang sangat menarik perhatian para pengunjung. Salah satunya hewan purba yaitu komodo yang masih dilindungi sampai saat ini. Dilansir dari berbagai sumber, berikut Fakta Menarik merecomended beberapa destinasi wisata yang harus kamu kunjungi saat berada di Labuan bajo.",
+    "map": "!1m18!1m12!1m3!1d63144.2223180046!2d119.78628691014565!3d-8.449301439333409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2db468a6d47ed641%3A0x87f524333c6a6e8d!2sLabuan%20Bajo%2C%20Komodo%2C%20West%20Manggarai%20Regency%2C%20East%20Nusa%20Tenggara!5e0!3m2!1sen!2sid!4v1717172021126!5m2!1sen!2sid"
+  },
+  {
+    "id": "12",
+    "title": "Raja Ampat",
+    "region": "IT",
+    "provinsi": "provinsi Papua Barat Daya",
+    "hero_img": "https://v1.indonesia.travel/content/dam/indtravelrevamp/en/destinations/revision-2019/all-revision-destination/rajaampatH.jpg",
+    "desc_title": "Terletak di ujung barat Papua, Kepulauan Raja Ampat bagaikan permata tersembunyi yang memancarkan pesona alam yang luar biasa. Membentang di area seluas kurang lebih 4,6 juta hektar, Raja Ampat terdiri dari 4 pulau besar, yaitu Waigeo, Batanta, Salawati, dan Misool, dan 1.847 pulau-pulau kecil lainnya. Legenda masyarakat setempat menceritakan asal-usul nama Raja Ampat yang unik. Konon, seorang wanita menemukan tujuh telur, dan empat di antaranya menetas menjadi raja-raja yang memerintah di empat pulau utama. Tiga telur lainnya, satu berubah menjadi batu, satu menjadi wanita, dan satu lagi menjadi makhluk gaib. Terlepas dari legenda tersebut, keindahan Raja Ampat tak perlu diragukan lagi. Kepulauan ini bagaikan surga bagi para pecinta alam, menawarkan panorama yang memukau dan keanekaragaman hayati yang luar biasa.",
+    "img_content": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/revisi-2020/revamp-image/raja-ampat/1.jpg",
+    "img_title": "Surga Bawah Laut Raja Ampat Menanti Para Penyelam dan Snorkeler",
+    "desc_img": "Bagi para pecinta diving dan snorkeling, Raja Ampat bagaikan surga bawah laut yang tak boleh dilewatkan. Kepulauan ini dinobatkan sebagai salah satu destinasi diving terbaik di dunia, dengan keanekaragaman hayati laut yang luar biasa. Menurut laporan The Nature Conservancy dan Conservation International, organisasi sosial lingkungan internasional, Raja Ampat menjadi rumah bagi 75% spesies karang di dunia. Kekayaan dan keunikan spesies di sini tak tertandingi, dengan 1.318 jenis ikan, 699 jenis moluska (hewan lunak), dan 537 jenis terumbu karang yang dapat ditemukan. Bersiaplah untuk terpesona dengan keindahan bawah laut Raja Ampat. Selami jernihnya air laut dan temui berbagai biota laut unik yang menanti Anda. Kuda laut kerdil (pygmy seahorse), ikan kelelawar, hingga dugong, siap menyambut Anda di surga bawah laut ini.",
+    "video": "RRNBluLVMGc",
+    "desc_video": "Terletak di ujung barat Papua Barat Daya, Kepulauan Raja Ampat bagaikan permata yang berkilauan, memancarkan pesona alam yang luar biasa dan diakui sebagai salah satu destinasi terbaik di Indonesia, bahkan di dunia.",
+    "map": "!1m18!1m12!1m3!1d15959.140966188206!2d130.50636725929772!3d-0.2333115386148227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d5fa27c8c822585%3A0x32d4a5a9909469f5!2sKepulauan%20Raja%20Ampat!5e0!3m2!1sid!2sid!4v1717173781103!5m2!1sid!2sid"
+  },
+  {
+    "id": "13",
+    "title": "Taman Nasional Teluk Cenderawasih",
+    "region": "IT",
+    "provinsi": "Provinsi Papua Barat",
+    "hero_img": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2022/11/18/papua-barat-dayajpg-20221118125908.jpg",
+    "desc_title": "Bosan dengan Raja Ampat? Coba jelajahi Taman Nasional Teluk Cenderawasih, destinasi wisata baru yang tak kalah memukau di Papua Barat. Teluk yang membentang seluas 14.000 km2 ini memiliki 18 pulau eksotis yang siap memanjakan mata Anda.",
+    "img_content": "https://asset.kompas.com/crops/iTKko_RyhWmacxh5v9hXqq3Ukww=/0x49:1000x715/750x500/data/photo/2021/09/24/614d6315c5978.jpg",
+    "img_title": "Pulau Misool: Menjelajahi Sejarah dan Keindahan Alam",
+    "desc_img": "Salah satu spot favorit di Teluk Cenderawasih adalah Pulau Misool. Di sini, Anda dapat menemukan peninggalan sejarah etnis Wandau dan gereja tua yang unik. Pulau ini juga terkenal sebagai habitat hiu paus raksasa, yang panjangnya bisa mencapai 18 meter!",
+    "video": "gD-WOasucqc",
+    "desc_video": "Taman Nasional Teluk Cenderawasih (TNTC) berada di Provinsi Papua dan Papua Barat, memiliki luas 1.453.500.00 ha.  Melalui SK. Menhut Nomor 8009/Kpts-II/2002, pada tanggal 29 Agustus 2002 ditetapkan menjadi Taman Nasional Perairan Laut terluas yang ada di Indonesia. Taman Nasional ini dikelola oleh Balai Besar TNTC yang bekerja sama dengan berbagai pihak, antara lain WWF-Indonesia dan masyarakat di dalam kawasan tersebut. Taman nasional ini merupakan perwakilan ekosistem terumbu karang, pantai, mangrove, dan hutan tropika daratan pulau di Papua dan Papua Barat. Komposisinya berupa daratan dan pesisir pantai 0,9 %, daratan pulau-pulau 3,8%, terumbu karang 5,5%, dan perairan lautan 89,8%. Tercatat ada 150 jenis karang dari lima belas famili tersebar di tepian delapan belas pulau besar dan kecil. Persentase penutupan karang hidup bervariasi antara 30,40% sampai dengan 65,64%. Umumnya ekosistem terumbu karang terbagi menjadi dua zona yaitu, zona rataan terumbu (reef flat) dan zona lereng terumbu (reef slope). Jenis karang yang dapat dilihat di perairan TNTC yaitu koloni karang biru (Heliopora coerulea), karang hitam (Antiphates), Famili Faviidae dan Pectiniidae, serta berbagai jenis karang lunak.",
+    "map": "!1m18!1m12!1m3!1d3434288.4837331744!2d132.23429089066434!3d-1.5493087114176973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d4b62bec61af6ef%3A0x758ba1aa8c8a474a!2sTaman%20Nasional%20Teluk%20Cenderawasih!5e0!3m2!1sid!2sid!4v1717200144590!5m2!1sid!2sid"
+  },
+  {
+    "id": "14",
+    "title": "Taman Nasional Bunaken",
+    "region": "IT",
+    "provinsi": "Provinsi Sulawesi Utara",
+    "hero_img": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQUbOYVuXwZqoN2Vil4u1kWylQQL4DUAWlpJK7XDcST8A7ijHkU358QIFR-KQYgtHKFWBxwFvZm0P0lpkSDR22J0vzMOeJ7pzce_rPDBA",
+    "desc_title": "Taman Nasional Bunaken memiliki ekosistem terumbu karang yang sangat kaya. Terdapat sekitar 390 spesies terumbu karang di wilayah ini. Spesies alga yang dapat ditemui di Taman Nasional Bunaken adalah Caulerpa, Halimeda, dan Padina, sementara spesies rumput laut yang banyak ditemui adalah Thalassia hemprichii, Enhallus acoroides, dan Thalassaodendron ciliatum. Taman Nasional Bunaken juga memiliki berbagai spesies ikan, mamalia laut, reptil, burung, moluska dan mangrove. Sekitar 90 spesies ikan tinggal di perairan wilayah ini. Di daratan, pulau ini kaya akan Arecaceae, sagu, woka, silar dan kelapa. Selain itu, Taman Nasional Bunaken juga memiliki spesies hewan yang tinggal di daratan, seperti rusa dan kuskus. Hutan mangrove di taman ini menjadi habitat bagi kepiting, lobster, moluska, dan burung laut.",
+    "img_content": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bunaken_Marine_Park.JPG/220px-Bunaken_Marine_Park.JPG",
+    "img_title": "Flora dan Fauna di Taman Nasional Bunaken",
+    "desc_img": "Taman Nasional Bunaken, surga bawah laut di pusat Segitiga Terumbu Karang, kaya akan 390 spesies terumbu karang di area 11.709 hektar. Hutan bakau seluas 2.434 hektar, padang lamun 5.108 hektar, dan 2.000+ spesies ikan karang melengkapi pesonanya. Di daratan, rusa, kuskus, dan berbagai flora tropis menanti. Hutan bakau menjadi habitat kepiting, moluska, dan burung laut. Bunaken: Destinasi lengkap untuk pecinta alam!",
+    "video": "GSJ0pcPucJI",
+    "desc_video": "TAMAN NASIONAL BUNAKEN diresmikan pada tahun 1991 menjadi wilayah taman nasional. Berdasarkan informasi dari WIKI, 97% dari taman nasional ini merupakan habitat laut, sementara 3% sisanya merupakan daratan. Adapun pulaunya antara lain Pulau Bunaken, Pulau Manado Tua, Pulau Mantehage, Pulau Naen dan Pulau Siladen. Seperti halnya WAKATOBI, taman laut TN Bunaken masuk dalam jantung Segitiga Emas terumbu karang dunia (The World Coral Triangle). Maka sudah menjadi kewajiban untuk snorkling atau diving, berbagai macam terumbu karang dan jenis ikan. Yang menjadi ciri khas di Bunaken adalah terdapat Underwater Great Wall, yaitu dinding-dinding karang raksasa yang berdiri vertikal dengan ketinggian 25-50 m. Dari wall tersebut bisa kita temukan berbagai macam terumbu karang, ikan, penyu dari ukuran kecil hingga besar, ular laut, sea fan, dll.",
+    "map": "!1m18!1m12!1m3!1d3988.224995671744!2d124.76617399999999!3d1.6193013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2d7873db0880843f%3A0x606df49ef663eff7!2sTaman%20Nasional%20Bunaken!5e0!3m2!1sid!2sid!4v1717201484355!5m2!1sid!2sid"
+  },
+  {
+    "id": "15",
+    "title": "Pulau Kakaban",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Timur",
+    "hero_img": "https://sepinggan-airport.com/frontend/uploads/defaults/FFYP1e20170524144028.jpg",
+    "desc_title": "Pulau Kakaban juga merupakan pulau yang tidak berpenghuni. Daya tarik utama di pulau ini adalah danau air payau yang berada di bagian tengah pulau dan dikelilingi hutan yang cukup lebat. Di dalam danau tersebut ada banyak sekali ubur-ubur yang sudah mengalami proses evolusi sehingga kehilangan kemampuan menyengatnya.",
+    "img_content": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRkrpRVYggLCABHMppe2AvCfkpJgQb4zuEbH5MemuWG7ZcBO6KwZE6Rmb1lXs0jUSgN-LXT2XTnEfqovTO6gsjvOOhJ9RmMv8lo_m6ehw",
+    "img_title": "Ubur-ubur yang Menawan",
+    "desc_img": "Di tengah-tengah keindahan bawah laut ini, terdapat beberapa ubur-ubur yang menari dengan anggun. Ubur-ubur ini memiliki tubuh yang transparan dan berwarna-warni, membuatnya tampak seperti tarian hidup di bawah air. Sentuhan lembut tentakel mereka di kulit Anda terasa seperti belaian halus.",
+    "video": "MXilRkKnDLg",
+    "desc_video": "Bayangkan diri Anda berenang di antara ratusan ubur-ubur yang menari dengan anggun. Sentuhan lembut tentakel mereka di kulit Anda terasa seperti belaian halus. Rasakan sensasi ketenangan dan kedamaian saat Anda dikelilingi oleh makhluk-makhluk cantik ini.",
+    "map": "!1m18!1m12!1m3!1d151727.3364207255!2d118.33195947133169!3d2.1178798396540373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x320db9032df93133%3A0x2cea5b974756a685!2sKabupaten%20Berau%2C%20Kalimantan%20Timur!5e0!3m2!1sid!2sid!4v1717202488726!5m2!1sid!2sid"
   }
 ];
 
