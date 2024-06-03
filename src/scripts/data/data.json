@@ -1,0 +1,36 @@
+{
+  "error": false,
+  "message": "success",
+  "destinations": [
+    {
+      "id": "1",
+      "title": "Danau Toba",
+      "region": "IB",
+      "provinsi": "Provinsi Sumatera Utara"
+    },
+    {
+      "id": "2",
+      "title": "Pulau Weh",
+      "region": "IB",
+      "provinsi": "Provinsi Aceh"
+    },
+    {
+      "id": "3",
+      "title": "Bukittinggi",
+      "region": "IB",
+      "provinsi": "Provinsi Sumatera Barat"
+    },
+    {
+      "id": "4",
+      "title": "Taman Nasional Gunung Leuser",
+      "region": "IB",
+      "provinsi": "Provinsi Aceh"
+    },
+    {
+      "id": "5",
+      "title": "Pulau Belitung",
+      "region": "IB",
+      "provinsi": "Provinsi Kepulauan Bangka Belitung"
+    }
+  ]
+}
