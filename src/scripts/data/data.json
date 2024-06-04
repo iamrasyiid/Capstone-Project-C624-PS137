@@ -31,6 +31,37 @@
       "title": "Pulau Belitung",
       "region": "IB",
       "provinsi": "Provinsi Kepulauan Bangka Belitung"
+    },
+
+    {
+      "id": "6",
+      "title": "Pulau Derawan",
+      "region": "IT",
+      "provinsi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "id": "7",
+      "title": "Pulau Randayan",
+      "region": "IT",
+      "provinsi": "Provinsi Kalimantan Barat"
+    },
+    {
+      "id": "8",
+      "title": "Pulau Kabung",
+      "region": "IT",
+      "provinsi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "id": "9",
+      "title": "Pulau Kakaban",
+      "region": "IT",
+      "provinsi": "Provinsi Kalimantan Timur"
+    },
+    {
+      "id": "10",
+      "title": "Pulau Maratua",
+      "region": "IT",
+      "provinsi": "Provinsi Kalimantan Timur"
     }
   ]
 }

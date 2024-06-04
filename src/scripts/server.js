@@ -67,6 +67,7 @@ const destinations = [
     "desc_video": "Taman Nasional Gunung Leuser memiliki topografi yang beragam, mulai dari dataran rendah hingga puncak gunung yang tinggi. Puncak tertingginya adalah Gunung Leuser dengan ketinggian sekitar 3.381 meter di atas permukaan laut. Taman Nasional Gunung Leuser menarik wisatawan yang tertarik untuk menjelajahi alam liar dan melihat keanekaragaman hayati yang luar biasa. Terdapat berbagai jalur trekking yang dapat diikuti, serta lokasi camping yang memungkinkan pengunjung untuk menghabiskan waktu di tengah alam",
     "map": "!1m18!1m12!1m3!1d509733.6658978962!2d96.8866549734375!3d3.5192922999999903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3039861c87a73591%3A0x3f1b67119f4d54b2!2sTaman%20Nasional%20Gunung%20Leuser!5e0!3m2!1sid!2sid!4v1717238437799!5m2!1sid!2sid"
   },
+  
   {
     "id": "5",
     "title": "Pulau Belitung",
@@ -81,6 +82,78 @@ const destinations = [
     "desc_video": "Pulau Belitung juga terkenal akan kekayaan bawah lautnya, menjadikannya tujuan yang ideal untuk aktivitas seperti snorkeling dan menyelam. Selain itu, makanan khas Belitung seperti mi belitung dan nasi dengdeng juga menjadi daya tarik tersendiri bagi para wisatawan. Pantai-pantai di Pulau Belitung adalah yang terbaik di Indonesia. Pasir putih bersih yang halus berpadu dengan air laut berwarna biru jernih dan batuan granit yang ikonik menciptakan pemandangan yang luar biasa. Setiap pantai memiliki daya tariknya sendiri, mulai dari Pantai Tanjung Tinggi dengan batu granit raksasanya hingga Pantai Tanjung Kelayang yang memukau dengan keindahan alamnya.",
     "map": "!1m18!1m12!1m3!1d510043.31280087197!2d107.58437130827681!3d-2.898695988671966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e172904cb3c7b25%3A0x9b308566eb9637c6!2sPulau%20Belitung!5e0!3m2!1sid!2sid!4v1717238888385!5m2!1sid!2sid"
   },
+
+  {
+    "id": "6",
+    "title": "Pulau Derawan",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Timur",
+    "hero-img": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_61.jpg",
+    "desc-title": "Salah satu wisata yang indah di Kalimantan Timur adalah Kepulauan Derawan. Dalam beberapa tahun terakhir tempat ini populer sebagai salah satu liburan pantai eksotis yang sangat baik di Indonesia. Keindahan Kepulauan Derawan yang bisa Anda nikmati seperti; menyelam dan snorkeling. Kepulauan Derawan seperti mimpi khas surga tropis dengan pantai berpasir putih terpencil, air biru jernih dan beberapa pohon kelapa yang menyediakan tempat teduh.",
+    "img-content": " https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_63.jpg",
+    "img-title": "Pulau Derawan",
+    "desc-img": "Pulau-pulau tersebut terletak di Kabupaten Berau, di pesisir Kalimantan Timur dan merupakan salah satu tempat menyelam terbaik di dunia. Kepulauan ini terdiri dari 31 pulau kecil yang hanya memiliki 4 pulau yang dapat diakses: Kepulauan Derawan, Pulau Maratua, Pulau Sangalaki dan Kakaban. Pada tahun 2005, kepulauan ini dinominasikan sebagai Situs Warisan Dunia oleh UNESCO. Kepulauan Derawan memiliki 1.270.000 hektar wilayah laut dan pulau adalah ekosistem laut dan pesisir: terumbu karang, padang lamun dan hutan mangrove. Ia memiliki keanekaragaman hayati yang unik dengan lebih dari 460 jenis karang yang tersebar di sekitar kawasan ini dan beberapa gumuk pasir seperti Pulau Panjang, Muaras, Masimbung, Buliulin, Pinaka dan Tababinga Sandbank. Ada juga 870 jenis ikan, beberapa di antaranya adalah spesies yang dilindungi seperti penyu hijau, kura-kura skala besar, paus, lumba-lumba, kerang raksasa, kepiting kelapa, dan barakuda. Kawasan ini memiliki habitat dan lokasi penyu terbesar di Asia Tenggara.",
+    "video": "JI6xRIu6N-Q?si=mUGTQU8u_YD2kpj9",
+    "desc-video": "Kepulauan Derawan, menjadi destinasi wisata impian di Kalimantan Timur. Gugus kepulauan dengan 31 pulau ini tidak hanya menawarkan pantai putih nan alami, tapi juga berbagai pengalaman unik menyaksikan ubur-ubur dan berenang bersama hiu.",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d510311.9603570062!2d117.42890069110237!3d2.224294177245146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32128397e4edf7c5%3A0x8f40d5175cb6f86b!2sKec.%20Pulau%20Derawan%2C%20Kabupaten%20Berau%2C%20Kalimantan%20Timur%2C%20Indonesia!5e0!3m2!1sid!2ssg!4v1717438403782!5m2!1sid!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "7",
+    "title": "Pulau Randayan",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Barat",
+    "hero-img": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_72.jpg",
+    "desc-title": "Pulau Randayan merupakan salah satu objek wisata terkenal di Kalimantan Barat, yang terletak di Kabupaten Bengkayang. Untuk mengunjungi Pulau ini, Anda cukup menyeberang dari Teluk Suak yang tidak jauh dari Kota Singkawang, menggunakan Spead Boad atau Motor Klotok. Jika Anda sampai di pulau Randayan, Anda akan menikmati pemandangan pulau yang indah, dengan pasir putih, air yang biru serta pohon-pohon yang rindang dan hijau serta hamparan batu-batu di sepanjang pantai.",
+    "img-content": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_67.jpg",
+    "img-title": "Pulau Randayan",
+    "desc-img": "Pulau ini memiliki suasana yang tenang di sertai adanya villa sehingga wisatawan merasa nyaman seperti berada di rumah sendiri dengan suasana di pinggir pantai. Villa yang di sediakan di sertai juga tempat bersantai di pinggir pantai yang membuat wisatawan senang berkunjung ke sini. Jika Anda berkunjung ke Pulau Randayan, jangan melewati untuk melakukan snorkeling dan diving di sana. Anda bisa menyaksikan biota bawah laut yang beragam karena airnya biru jernih. Ada banyak terumbu karang yang bermacam-macam model dan memiliki warna-warna yang indah yang bisa Anda lihat.",
+    "video": "JI6xRIu6N-Q?si=mUGTQU8u_YD2kpj9",
+    "desc-video": "Berbicara Kalimantan Barat, biasanya yang pertama terlintas adalah wisata kuliner di Pontianak, atau wisata budaya di Singkawang atau wisata lainnya. Padahal, kawasan ini menyimpan banyak destinasi lain yang menanti untuk dieksplorasi. Di pesisir barat, misalnya, ada sejumlah pulau mungil yang bisa dikunjungi untuk wisata bahari. Sebut saja Pulau Randayan atau Randayan Island yang secara administratif terletak di Kecamatan Sungai Raya, Kabupaten Bengkayang, atau tepatnya di Laut Natuna di sebelah barat kota Singkawang. Seluas sekitar 4,5 hektar, pulau ini memiliki hamparan pasir putih bersih dengan perairan jernih dan pepohonan hijau yang menjadi latarnya. Suasananya indah, menarik dan bagai pulau pribadi, sehingga pengunjung bakal betah berlama-lama bersantai di sini sembari menikmati pemandangan laut lepas. Pengunjung juga bisa melakukan beragam aktivitas lainnya permainan air seperti banana boat, jet ski, dari berpiknik hingga berjemur di hamparan pasirnya. Ombaknya yang tenang membuat perairannya juga cocok untuk berenang ataupun snorkeling untuk melihat alam bawah lautnya yang menawan.",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1994.754353477429!2d108.72626408858964!3d0.7137953998198172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31e3a61d825b1703%3A0xdca6826f54c5d7fb!2sPulau%20Randayan!5e0!3m2!1sid!2ssg!4v1717439635191!5m2!1sid!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "8",
+    "title": "Pulau Kabung",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Timur",
+    "hero-img": " https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_79-1.jpg",
+    "desc-title": "Pulau Kabung merupakan objek wisata yang tidak kalah bagusnya yang berada di Kabupaten Bengkayang, Kalimantan Barat. Pulau ini memiliki pesona pantai yang memiliki air jernih dengan biota bawah laut yang indah. Pulau ini memiliki wilayah yang kecil, di tempati oleh sedikit penduduk, sehingga masih bersih dan natural. Jika mengunjungi pulau ini, Anda bisa menikmati pemandangan terumbu karang yang berwarna warni dengan ikan-ikan yang cantik dan menarik. Inilah yang menjadi daya tarik pulau ini oleh wisatawan baik domestik maupun mancanegara. Pulau ini terkenal juga dengan nama seribu bagan, karena terdapat banyak bagan-bagan yang di buat penduduk, untuk memelihara ikan hasil tangkapannya.",
+    "img-content": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_78.jpg",
+    "img-title": "Pulau kabung",
+    "desc-img": "Di sini Anda bisa melakukan snorkeling, diving dan memancing ataupun berperahu mengelilingi pulau Kabung ini. Jika Anda ingin melihat lebih dekat terumbu karang serta ikan-ikan di bawah laut, maka Anda dapat melakukan snorkeling maupun diving. Di bawah laut Anda bisa melihat ikan Clownfish atau Ikan Badut yang terkenal banyak di Pulau ini. Bagi pecinta Photografi pun, Anda bisa mendapatkan pemandangan yang bagus di sini, dengan adanya batu-batu besar di tepi pulau. Selain itu, moment sunset merupakan moment yang di tunggu-tunggu untuk berfoto di sini.",
+    "video": "Cd0riC_a-_M?si=ay1pw8BWw6ak3InX",
+    "desc-video": "Pengunjung juga bisa melakukan beragam aktivitas lainnya permainan air seperti banana boat, jet ski, dari berpiknik hingga berjemur di hamparan pasirnya. Ombaknya yang tenang membuat perairannya juga cocok untuk berenang ataupun snorkeling untuk melihat alam bawah lautnya yang menawan. Soal fasilitas, pengunjung tak perlu khawatir, karena penginapan bagi yang ingin bermalam tersedia di sini. Untuk mengakses pulau ini, pengunjung dapat menuju Teluk Suak terlebih dahulu. Bisa naik speedboat untuk mencapai Pulau Randayan, atau opsi lainnya pengunjung bisa naik kapal motor air.",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15957.585299982436!2d108.77303354801116!3d0.8333332865371922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31e3a04271045373%3A0xa1038daa22500ca0!2sPulau%20Kabung!5e0!3m2!1sid!2ssg!4v1717440324852!5m2!1sid!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "9",
+    "title": "Pulau Kakaban",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Timur",
+    "hero-img": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_91.jpg",
+    "desc-title": "Pulau Kakaban terletak di Kalimantan Timur, tepatnya di Kepulauan Derawan, Kecamatan Derawan, Kabupaten Berau. Pulau Kakaban menarik, salah satunya karena memiliki danau Derawan yang merupakan danau yang di isi oleh campuran air hujan dan rembesan air laut dari pori pori tanah sehingga membentuk suatu habitat endemik yang berbeda dari kebanyakkan danau lainnya. Di Danau Kakaban dapat dijumpai ubur-ubur yang tidak menyengat yaitu Golden Jellyfish atau ubur-ubur emas. Sedangkan di Pulau Kakaban, ada empat jenis ubur-ubur yaitu ubur-ubur bulan Aurelia aurita, ubur-ubur totol Mastigias cf Papua, ubur-ubur kotak Tripedalia cystophora, dan ubur-ubur terbalik Cassiopea ornata. Ubur-ubur totol dan ubur-ubur terbalik merupakan yang paling banyak di temui.",
+    "img-content": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_82.jpg",
+    "img-title": "Pulau Kakaban",
+    "desc-img": "Pulau Kakaban termasuk salah satu pulau yang tak berpenduduk tanpa toko dan kios, bahkan tanpa penginapan. Jadi, kamu yang ingin berkunjung ke sini, kamu bisa menginap di Pulau Derawan lalu berkunjung ke Pulau Kakaban. Waktu tempuh dari Pulau Derawan menuju Pulau Kakaban memakan waktu sekitar 1 sampai 1.5 jam jika menggunakan speedboat.",
+    "video": "dbQHcanEBv8?si=5V4BqrPFCFscuWIY",
+    "desc-video": "Pulau selanjutnya yang kita kunjungin saat hopping island di kepulauan Derawan adalah pulau Kakaban. DI pulau Kakaban ini terdapat danau yg berisi banyak banget ubur-ubur tidak bersengat lho. Di pulau ini juga memiliki keindahan laut yang sangat indah, hamparan karang yang luas beserta ikan-ikan yang hidup disana. Wajib banget snorkling kalo kalian ke pulau Kakaban. Mau tau keseruan kita di pulau ini? Nonton videonya sampai habis yaa...",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31896.295278585272!2d118.5134456572191!3d2.139532311847363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x320d56ff5c3dd195%3A0x41738ad59819fc00!2sPulau%20Kakaban!5e0!3m2!1sid!2ssg!4v1717440922065!5m2!1sid!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "10",
+    "title": "Pulau Maratua",
+    "region": "IT",
+    "provinsi": "Provinsi Kalimantan Timur",
+    "hero-img": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_95.jpg",
+    "desc-title": "Pulau Maratua terdapat di Kalimantan Timur, Kabupaten Berau. Maratua merupakan pulau yang indah yang terletak di perairan Sulawesi dan dekat perbatasan dengan Malaysia. Jika Anda yang berada di luar Kalimantan Timur dan ingin berkunjung ke sini, Anda bisa naik pesawat menuju Tarakan atau via pelabuhan Tanjung Redep setelah turun di Bandara Kalimarau, Berau. Maratua merupakan tempat yang mengagumkan bagi pecinta penyelam. Alam bawah lautnya serta warna air yang biru, sangat indah. Di Maratua menyediakan banyak spot yang bisa di pilih oleh pecinta diving. Maratua memiliki suasana hening, dengan deburan ombak yang menyapu pantai, membuat sensasi yang berbeda. Banyak ikan laut tampak bermain di bawah dermaga dari lion fish sampai pari putih terdapat juga penyu yang suka menimbulkan diri di dermaga yang dangkal",
+    "img-content": "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_100.jpg",
+    "img-title": "Pulau Maratua",
+    "desc-img": "Bagi wisatawan, Marantua menyediakan Resort untuk menginap, salah satunya Maratua Paradise Resort. Resort ini memiliki dermaga sendiri, dan langsung berhadapan dengan laut lepas. Ada kamar yang sengaja didirikan tepat di bawah bibir laut. Pemandangan di sini sangat indah dan menarik.",
+    "video": "HZdKFn-ubig?si=QnA7DOHIJywbJDJF",
+    "desc-video": "Pasalnya pulau ini tercatat sebagai pulau terluar Indonesia di gugusan pulau di Kaltim. Tepatnya, berbatasan dengan perairan Filipina dan Malaysia. Tak heran, Pulau Maratua ditetapkan sebagai kawasan strategis nasional oleh Presiden Joko Widodo. Meski jaraknya yang jauh, semua terbayarkan ketika bertemu dengan kelompok lumba-lumba seakan menyambut anda masuk ke pulau. Bahkan ketika tiba di Pulau Maratua, mata anda dimanjakan saat menyaksikan eksotisnya pantai penuh dengan jejeran pohon kelapa yang tersusun indah oleh alam yang terus mengeluarkan bunyian angin semilir akibat hembusan angin. Tak sampai disitu, keindahan alam bawah laut juga membuat Pulau Maratua sebagai surganya bagi para penyelam. Kondisi inilah yang membuat Provinsi Kalimantan Timur yang nantinya akan menjadi ibukota negara, memutuskan Pulau Maratua untuk dilakukan percepatan pembangunan dan pengawasan destinasi wisata nasional.",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127576.84396915499!2d118.52478292704272!3d2.2375071883471844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3212ac7490c7038d%3A0x9b789f0629d46dd0!2sPulau%20Maratua!5e0!3m2!1sid!2ssg!4v1717441621681!5m2!1sid!2ssg\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+
   {
     "id": "11",
     "title": "Labuan Bajo: Gerbang Menuju Surga Tersembunyi di Timur Indonesia",
