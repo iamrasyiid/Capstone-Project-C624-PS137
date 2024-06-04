@@ -164,6 +164,26 @@ const destinations = [
       "Pengunjung juga bisa melakukan beragam aktivitas lainnya permainan air seperti banana boat, jet ski, dari berpiknik hingga berjemur di hamparan pasirnya. Ombaknya yang tenang membuat perairannya juga cocok untuk berenang ataupun snorkeling untuk melihat alam bawah lautnya yang menawan. Soal fasilitas, pengunjung tak perlu khawatir, karena penginapan bagi yang ingin bermalam tersedia di sini. Untuk mengakses pulau ini, pengunjung dapat menuju Teluk Suak terlebih dahulu. Bisa naik speedboat untuk mencapai Pulau Randayan, atau opsi lainnya pengunjung bisa naik kapal motor air.",
     map: "!1m18!1m12!1m3!1d15957.585299982436!2d108.77303354801116!3d0.8333332865371922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31e3a04271045373%3A0xa1038daa22500ca0!2sPulau%20Kabung!5e0!3m2!1sid!2ssg!4v1717440324852!5m2!1sid!2ssg",
   },
+
+  {
+    id: "9",
+    title: "Pulau Lemukutan",
+    region: "ITA",
+    provinsi: "Provinsi Kalimantan Timur",
+    hero_img:
+      "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_109.jpg",
+    desc_title:
+      "Pulau ini telah dicanangkan oleh Pemerintah Kabupaten Bengkayang sebagai Kampung Wisata. Daya tarik pulau Lemukutan adalah suasana nan alami, indah dan sangat eksotis. Apalagi di bawah laut, Anda bisa berfoto dengan terumbu karang di jarak sangat dekat dari permukaan. Untuk pergi ke Pulau Lemukutan ini, Anda harus menyeberangi Teluk Suak dengan menggunakan speed boat atau kapal kelotok. Jika sudah sampai, Anda akan di sambut dengan pemandangan menarik alam bawah laut yang di huni berbagai macam biota laut yang mempesona.",
+    img_content:
+      "https://www.amazingborneo.id/wp-content/uploads/2018/03/Screenshot_58.jpg",
+    img_title: "Pulau kabung",
+    desc_img:
+      "Pulau ini menyajikan beberapa spot untuk anda menikmati keindahan biota laut yang hidup di sana. Salah satu dari spot tersebut yang paling populer adalah bungoran. Spot bungoran memiliki air yang jernih sehingga anda dapat melihat biota – biota laut yang lucu seperti ikan dan terumbu karang dengan jelas. Anda bisa menggunakan kamera waterproff atau anti air untuk menangkap moment saat Anda berada di bawah air.",
+    video: "cFzXwQbZSrM?si=f8V180n_B0aMnclm",
+    desc_video:
+      "Pulau Lemukutan memiliki pemandangan air laut yang bening, sehingga terumbu karang bawah laut bisa terlihat dari daratan. Pulau Lemukutan kerap dijadikan tempat untuk melakukan aktivitas diving dan snorkeling oleh wisatawan. Pulau Lemukutan juga bisa dinikmati dengan cara bermain kano. Nama Pulau Lemukutan berasal dari cerita rakyat setempat yang mengatakan bahwa pulau ini mirip dengan seekor lembu. Kondisi hutan tropis yang masih sangat dijaga oleh masyarakat setempat ini menjadikannya lokasi yang begitu cantik dan alami. Saat Anda datang ke pulau ini, Anda akan disambut dengan air laut yang jernih nan indah. Ditambah pesona pantai yang masih alami dan kehangatan dari masyarakat desa setempat. Udara yang masih segar dan jauh dari keriuhan kota menjadi nilai tambah dari Pulau Lemukutan ini. Pulau Lemukutan sendiri sangat terkenal dengan keindahan bawah laut yag dimilikinya. Tak banyak yang menyangka jika di tengah pualu yang khas dengan lahan gambutnya justru menyimpan surga yang begitu menakjubkan. Anda bisa melakukan banyak aktivitas seru saat berkunjung ke pulau ini.",
+    map: "!1m18!1m12!1m3!1d63831.34981999259!2d108.66427910686095!3d0.7685733013222994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31e3a418bf257cdd%3A0x3e0094c67a7a5ef9!2sPulau%20Lemukutan%2C%20Sungai%20Raya%20Kepulauan%2C%20Kabupaten%20Bengkayang%2C%20Kalimantan%20Barat%2C%20Indonesia!5e0!3m2!1sid!2ssg!4v1717523321959!5m2!1sid!2ssg",
+  },
   {
     id: "10",
     title: "Pulau Maratua",
