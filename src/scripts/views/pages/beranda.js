@@ -1,5 +1,8 @@
 import WisataDbSource from "../../data/wisatadb-source";
-import {WisataItemTemplate} from "../templates/template-creator";
+import {
+  WisataItemTemplate,
+  TrendingItemTemplate,
+} from "../templates/template-creator";
 
 const Beranda = {
   async render() {
@@ -52,46 +55,7 @@ const Beranda = {
           Sedang Trending
        </h2>
 
-       <div class="populer__container container grid">
-          <article class="populer__card">
-             <img src="./images/rajaampat.jpg" alt="" class="explore__img">
-             <div class="populer__modal">
-                <div>
-                    <span class="populer__subtitle">Kab. Raja Ampat</span>
-                    <h3 class="populer__title">Raja Ampat</h3>
-                    <a href="#/detail" class="populer__button button button__small">
-                        <i class="ri-link"></i>
-                    </a>
-                </div>
-            </div>
-          </article>
-
-          <article class="populer__card">
-             <img src="./images/rajaampat.jpg" alt="" class="explore__img">
-             <div class="populer__modal">
-                <div>
-                    <span class="populer__subtitle">Kab. Raja Ampat</span>
-                    <h3 class="populer__title">Raja Ampat</h3>
-                    <a href="#/detail" class="populer__button button button__small">
-                        <i class="ri-link"></i>
-                    </a>
-                </div>
-            </div>
-          </article>
-
-          <article class="populer__card">
-             <img src="./images/rajaampat.jpg" alt="" class="explore__img">
-             <div class="populer__modal">
-                <div>
-                    <span class="populer__subtitle">Kab. Raja Ampat</span>
-                    <h3 class="populer__title">Raja Ampat</h3>
-                    <a href="#/detail" class="populer__button button button__small">
-                        <i class="ri-link"></i>
-                    </a>
-                </div>
-            </div>
-          </article>
-       </div>
+       <div class="populer__container container grid"></div>
     </section>
     
     <!--==================== EXPLORE ====================-->
@@ -119,11 +83,17 @@ const Beranda = {
   },
 
   async afterRender() {
-   const wisatas = await WisataDbSource.daftarWisata();
-   const wisatasContainer = document.querySelector('.explore__container');
-   wisatas.forEach((wisata) => {
-     wisatasContainer.innerHTML += WisataItemTemplate(wisata);
-   });
+    const trendings = await WisataDbSource.trendingWisata();
+    const trendingsContainer = document.querySelector(".populer__container");
+    const wisatas = await WisataDbSource.berandaWisata();
+    const wisatasContainer = document.querySelector(".explore__container");
+    wisatas.forEach((wisata) => {
+      wisatasContainer.innerHTML += WisataItemTemplate(wisata);
+    });
+
+    trendings.forEach((trending) => {
+      trendingsContainer.innerHTML += TrendingItemTemplate(trending);
+    });
   },
 };
 

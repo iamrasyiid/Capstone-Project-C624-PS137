@@ -82,4 +82,19 @@ const WisataItemTemplate = (wisata) => `
 </article>
 `;
 
-export { WisataItemTemplate, WisataDetailTemplate };
+const TrendingItemTemplate = (wisata) => `
+<article class="populer__card">
+    <img src="${wisata.hero_img}" alt="" class="explore__img">
+    <div class="populer__modal">
+        <div>
+            <span class="populer__subtitle">${wisata.provinsi}</span>
+            <h3 class="populer__title">${wisata.title}</h3>
+            <a href="#/detail/${wisata.id}" class="populer__button button button__small">
+                <i class="ri-link"></i>
+            </a>
+        </div>
+    </div>
+</article>
+`;
+
+export { WisataItemTemplate, WisataDetailTemplate, TrendingItemTemplate };
