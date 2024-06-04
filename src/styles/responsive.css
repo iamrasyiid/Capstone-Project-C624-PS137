@@ -1,9 +1,6 @@
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and (max-width: 320px) {
-  .container{
-    margin-inline: 1rem;
-  }
 
   .populer__modal{
     padding-inline: .5rem;
