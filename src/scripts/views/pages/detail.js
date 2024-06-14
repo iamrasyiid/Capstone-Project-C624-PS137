@@ -13,8 +13,8 @@ const Detail = {
     const url = UrlParser.parseActiveUrlWithoutCombiner();
     const wisata = await WisataDbSource.detailWisata(url.id);
     const wisataContainer = document.querySelector('.detailwisata');
+
     wisataContainer.innerHTML = WisataDetailTemplate(wisata);
-    // Fungsi ini akan dipanggil setelah render()
   },
 };
 

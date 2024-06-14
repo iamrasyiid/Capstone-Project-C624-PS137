@@ -1,5 +1,6 @@
 import WisataDbSource from "../../data/wisatadb-source";
 import {
+  HeroTemplate,
   WisataItemTemplate,
   TrendingItemTemplate,
 } from "../templates/template-creator";
@@ -8,45 +9,7 @@ const Beranda = {
   async render() {
     return `
     <!--==================== HOME ====================-->
-    <section class="home section">
-       <div class="home__rectangle"></div>
-
-       <div class="home__container container grid">
-          <div class="home__perfil perfil">
-             <div class="perfil__content">
-                <img src="./images/profile.png" alt="image" class="perfil__img">
-             </div>
-          </div>
-
-          <div class="home__content grid">
-             <div class="home__data grid">
-                <h1 class="home__name">B.B.L</h1>
-
-                <h2 class="home__profession">Bumi Budaya Lestari</h2>
-
-                <p class="about__description">
-                   Lorem ipsum dolor sit, amet consectetur adipisicing elit. <b>Halaman Web</b> Rerum doloremque quia velit doloribus? Inventore, quo dolorum! Fugiat facere dolores quas illo ex tempora labore. Rem ducimus esse culpa qui praesentium! 
-                </p>
-
-                <div class="home__social">
-                   <a href="https://github.com/iamrasyiid" target="_blank" class="home__social-link">
-                      <i class="ri-github-fill"></i>
-                   </a>
-
-                   <a href="https://www.linkedin.com/in/abd-rasyid-30a64a221/" target="_blank" class="home__social-link">
-                      <i class="ri-linkedin-box-fill"></i>
-                   </a>
-
-                   <a href="https://dribbble.com/iamrasyiid" target="_blank" class="home__social-link">
-                      <i class="ri-dribbble-line"></i>
-                   </a>
-                </div>
-             </div>
-
-             <a href="#/explore" class="home__button button">Explore Wisata</a>
-          </div>
-       </div>
-    </section>
+    <section class="home section"></section>
 
     <!--==================== POPULER ====================-->
     <section class="populer section">
@@ -77,16 +40,21 @@ const Beranda = {
           </h2>
 
           <a href="#/explore" class="home__button button">Explore Wisata</a>
-       </section>
        </div>
+    </section>
       `;
   },
 
   async afterRender() {
+    const heroContainer = document.querySelector(".home");
+    heroContainer.innerHTML += HeroTemplate();
+
     const trendings = await WisataDbSource.trendingWisata();
     const trendingsContainer = document.querySelector(".populer__container");
+
     const wisatas = await WisataDbSource.berandaWisata();
     const wisatasContainer = document.querySelector(".explore__container");
+    
     wisatas.forEach((wisata) => {
       wisatasContainer.innerHTML += WisataItemTemplate(wisata);
     });
