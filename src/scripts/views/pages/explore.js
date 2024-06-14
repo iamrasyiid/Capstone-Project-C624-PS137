@@ -19,10 +19,10 @@ const Explore = {
   async afterRender() {
    const wisatas = await WisataDbSource.daftarWisata();
    const wisatasContainer = document.querySelector('.explore__container');
+
    wisatas.forEach((wisata) => {
      wisatasContainer.innerHTML += WisataItemTemplate(wisata);
    });
-    // Fungsi ini akan dipanggil setelah render()
   },
 };
 
