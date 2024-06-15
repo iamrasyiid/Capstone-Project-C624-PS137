@@ -161,4 +161,28 @@ const FormTemplate = () => `
     </form>
 `;
 
-export { HeroTemplate, WisataItemTemplate, WisataDetailTemplate, TrendingItemTemplate, FormTemplate };
+const SearchExplore = () => `
+    <div class="row g-3 justify-content-center">
+    <div class="col-8 col-md-6">
+        <input class="form-control" type="text" id="explore__search-input" placeholder="Cari wisata...">
+    </div>
+
+    <div class="col-4 col-md-2">
+        <button class="button-view w-100" id="explore__search-button">Cari</button>
+    </div>
+
+    </div>
+
+    <div class="row">
+    <div class="explore__not-found-message mt-5 text-center" hidden></div>
+    </div>
+`;
+
+export {
+  HeroTemplate,
+  WisataItemTemplate,
+  WisataDetailTemplate,
+  TrendingItemTemplate,
+  FormTemplate,
+  SearchExplore,
+};

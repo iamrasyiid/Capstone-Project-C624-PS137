@@ -170,6 +170,7 @@
   .explore__container {
     grid-template-columns: repeat(3, 320px);
     row-gap: 4rem;
+    min-height: 60vh;
   }
 
   .contact__container {
@@ -226,6 +227,7 @@
 
   .explore__container {
     grid-template-columns: repeat(3, 400px);
+    min-height: 70vh;
   }
 }
 
