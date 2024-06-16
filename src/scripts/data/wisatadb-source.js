@@ -45,7 +45,6 @@ class WisataDbSource {
   static async detailWisata(id) {
     const response = await fetch(API_ENDPOINT.DETAIL(id));
     const responseJson = await response.json();
-    console.log(response);
     return responseJson.destination;
   }
 }

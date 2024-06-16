@@ -15,20 +15,20 @@ const HeroTemplate = () => `
             <h2 class="home__profession">Bumi Budaya Lestari</h2>
 
             <p class="about__description">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. <b>Halaman Web</b> Rerum doloremque quia velit doloribus? Inventore, quo dolorum! Fugiat facere dolores quas illo ex tempora labore. Rem ducimus esse culpa qui praesentium! 
+                BumiBudayaLestari adalah platform informasi pariwisata berkelanjutan di Indonesia. Kami menginspirasi wisatawan untuk menjelajahi destinasi ramah lingkungan dan mendukung program pariwisata yang menjaga kelestarian alam. Bersama, kita dapat menciptakan perubahan positif melalui edukasi dan kesadaran lingkungan.
             </p>
 
             <div class="home__social">
-                <a href="https://github.com/iamrasyiid" target="_blank" class="home__social-link">
+                <a href="https://github.com/BumiBudayaLestari" target="_blank" class="home__social-link">
                     <i class="ri-github-fill"></i>
                 </a>
 
-                <a href="https://www.linkedin.com/in/abd-rasyid-30a64a221/" target="_blank" class="home__social-link">
+                <a href="https://www.linkedin.com/in/bumi-budaya-lestari-857b13313/" target="_blank" class="home__social-link">
                     <i class="ri-linkedin-box-fill"></i>
                 </a>
 
-                <a href="https://dribbble.com/iamrasyiid" target="_blank" class="home__social-link">
-                    <i class="ri-dribbble-line"></i>
+                <a href="https://x.com/bumi_butari" target="_blank" class="home__social-link">
+                     <i class="ri-twitter-x-fill"></i>
                 </a>
             </div>
             </div>
@@ -137,7 +137,7 @@ const TrendingItemTemplate = (wisata) => `
 `;
 
 const FormTemplate = () => `
-    <form action="https://formspree.io/f/myyrrnve" method="POST" class="contact__form grid" id="contact-form">
+    <form action="https://formspree.io/f/xbjnnqvl" method="POST" class="contact__form grid" id="contact-form">
         <div class="contact__group grid">
         <div class="contact__box">
             <input type="text" name="user_name" id="name" required placeholder="Tulis nama anda" class="contact__input">

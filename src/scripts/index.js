@@ -5,7 +5,6 @@ import "regenerator-runtime";
 import "../styles/styles.css";
 import "../styles/responsive.css";
 
-console.log("Hello bang");
 import App from "./views/app";
 import initHeader from "./utils/header-initiator";
 import toggleTheme from "./utils/toggle-theme";
