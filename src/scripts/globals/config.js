@@ -1,5 +1,5 @@
 const CONFIG = {
-  BASE_URL: "http://localhost:3000",
+  BASE_URL: "https://bbl-api.vercel.app",
   DEFAULT_LANGUAGE: "en-us",
 };
 

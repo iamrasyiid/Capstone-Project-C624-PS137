@@ -5,6 +5,7 @@ import Contact from '../views/pages/contact';
  
 const routes = {
   '/': Beranda,
+  '/bbl': Beranda,
   '/beranda': Beranda,
   '/explore': Explore,
   '/contact': Contact,

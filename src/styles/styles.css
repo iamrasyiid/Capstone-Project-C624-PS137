@@ -170,7 +170,7 @@ body.dark-theme {
 }
 
 .perfil__img {
-  width: 180px;
+  width: 220px;
 }
 
 .main {
@@ -201,7 +201,7 @@ nav a {
 }
 
 .nav__logo {
-  color: var(--first-color);
+  color: var(--title-color);
   font-weight: bold;
   transition: color 0.4s;
 }
@@ -325,6 +325,7 @@ nav a {
 
 .button-view {
   display: inline-block;
+  width: 100%;
   background-color: var(--first-color);
   color: var(--white-color);
   font-weight: var(--font-semi-bold);
@@ -404,9 +405,14 @@ nav a {
   justify-self: center;
 }
 
+.about__description{
+  text-align: center;
+}
+
 /*=============== POPULER ===============*/
 .populer__container {
   row-gap: 2rem;
+  padding-inline: 30px;
 }
 
 .populer__card {
@@ -471,6 +477,7 @@ nav a {
 .explore__container {
   row-gap: 2rem;
   min-height: 50vh;
+  padding-inline: 30px;
 }
 
 .explore__link {

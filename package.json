@@ -7,8 +7,7 @@
     "build": "webpack --config webpack.prod.js",
     "serve": "http-server dist",
     "test": "jest",
-    "test:watch": "jest --watchAll",
-    "serv": "node src/scripts/server/server.js"
+    "test:watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "your_name <your.email@domain.com>",
@@ -38,8 +37,6 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "cors": "^2.8.5",
-    "express": "^4.19.2",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1",
     "regenerator-runtime": "^0.14.0"
