@@ -14,8 +14,7 @@ const Beranda = {
     <!--==================== POPULER ====================-->
     <section class="populer section">
        <h2 class="section__title">
-          Wisata yang <br>
-          Sedang Trending
+          Wisata Populer
        </h2>
 
        <div class="populer__container container grid"></div>
